@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Calc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaviogmendes/Node.git"
+  },
+  "author": "Otavio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaviogmendes/Node/issues"
+  },
+  "homepage": "https://github.com/otaviogmendes/Node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

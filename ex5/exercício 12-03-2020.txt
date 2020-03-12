@@ -1,0 +1,9 @@
+Passos para a criação de um projeto em Node
+
+1)Criar o arquivo entry-point - index.js
+2)Criar o package.json (npm init)
+2.1)Instalar o framework Express
+2.2)Criar o .gitignore - para que a pasta node-modules não seja controlada pelo github.
+3)Criar o arquivo funcoes.js no qual teremos as 4 funções (soma, subtração, divisão e multiplicação). Não esqueça de exportar as funções para serem utilizadas em outro local.
+4)No programa index.js - importar as funções e invocá-las.
+5)Executar através do comando: node index.js
